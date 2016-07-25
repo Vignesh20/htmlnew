@@ -1,0 +1,155 @@
+@import url(https://fonts.googleapis.com/css?family=Oregano);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow);
+
+body{
+  background:#f0f0f5;
+}
+
+.header{
+position:fixed;
+height: 100px;
+background: #f0f0f5;
+z-index: 1000;
+}
+
+.main article{
+  text-decoration:none;
+  color:black;
+}
+.vw{
+  height: 100px;
+  width: 100px;
+}
+.vw img{
+  position: relative;
+}
+
+.items li {
+  display:inline;
+}
+
+.menu{
+  float:right;
+  margin-top:-1130px;
+}
+.model{
+   margin-top:30px;
+}
+
+.model img:hover{
+   opacity:.60;
+}
+
+.model1 img:hover{
+   opacity:.60;
+}
+
+.image img{
+  width: 100%;
+  margin-top: 20px;
+}
+
+.quote{
+  margin-top: 50px;
+}
+
+ul a{
+  text-decoration:none;
+color:black;
+list-style-type: none;
+}
+
+ul{
+  list-style-type: none;
+}
+
+nav{
+  margin-top:40px;
+margin-left:0px;
+}
+
+.title{
+  font-weight:bold;
+}
+
+.content{
+position: absolute;
+top: 140;
+left: 50;
+}
+
+
+
+.content1{
+position: absolute;
+top: 140;
+left: 800;
+}
+
+.content1 h2{
+ color:#A04000;
+}
+
+.content h2{
+ color:white;
+}
+
+.hero img{
+  width:100%;
+  margin-top: 100px;
+  }
+  .hero{
+    position: relative;
+  }
+
+.link img{
+  width: 5%;
+  height: 6%;
+}
+
+.site{
+  margin-left: 200px;
+  margin-top: 50px;
+  padding-bottom: 20px;
+}
+
+.site a{
+  text-decoration:none;
+  color:black;
+}
+
+a{
+  text-decoration: none;
+}
+
+.sub{
+   margin-top:20px;
+}
+
+.join img{
+  width:100%;
+  height:30%;
+  margin-left: 0px;
+}
+.join img:hover{
+  opacity: .85;
+
+}
+.sub img:hover{
+  opacity: .65;
+}
+#footaddr{
+  float: right;
+}
+
+ul a:hover{
+  color: #D35400;
+  font-size: 15px;
+}
+
+.hero1{
+  margin-top:120px;
+}
+.cars{
+  position:relative;
+}
